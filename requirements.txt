@@ -3,3 +3,4 @@ cvzone
 streamlit
 numpy
 mediapipe 
+google-generativeai
